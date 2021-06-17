@@ -20,7 +20,7 @@
 
 #include "tool.hpp"
 #include "tool_launcher.hpp"
-#include "detachedwindowsmanager.h"
+#include "gui/detachedwindowsmanager.h"
 
 #include <QMimeData>
 
