@@ -13,7 +13,7 @@ QWidget {
 }
 
 QDockWidget {
-    titlebar-normal-icon: "";
+	titlebar-normal-icon: url();
 }
 
 QToolTip {
