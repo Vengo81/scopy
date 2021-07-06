@@ -431,8 +431,8 @@ Oscilloscope::Oscilloscope(struct iio_context *ctx, Filter *filt,
 	hist_plot.setMinimumWidth(25);
 	hist_plot.setMaximumWidth(25);
 
-	xy_plot.setMinimumHeight(50);
-	xy_plot.setMinimumWidth(50);
+//	xy_plot.setMinimumHeight(50);
+//	xy_plot.setMinimumWidth(50);
 
 	xy_plot.setVertUnitsPerDiv(5);
 	xy_plot.setHorizUnitsPerDiv(5);

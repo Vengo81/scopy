@@ -266,6 +266,9 @@
            <bool>true</bool>
           </property>
           <layout class="QVBoxLayout" name="plot_and_buffPreviewer">
+           <property name="leftMargin">
+            <number>0</number>
+           </property>
            <item>
             <widget class="QWidget" name="hLayoutBufferPreview" native="true">
              <layout class="QHBoxLayout" name="hLayout_buffPreview">
