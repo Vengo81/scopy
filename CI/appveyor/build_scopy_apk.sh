@@ -12,7 +12,7 @@ build_scopy() {
 	pushd $WORKDIR
 	rm -rf scopy
 
-	git clone https://github.com/adisuciu/scopy.git --branch android3
+	git clone https://github.com/analogdevicesinc/scopy --branch fix_cmake
 	cd ${WORKDIR}/scopy
 	rm -rf build*
 
